@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0033/v1
 canonical_location: https://kanripo.org/bkk/KR6a0033/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 恒水經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0033_000.yaml, hash: 'sha256:0275d997aed86ded4d2b6ae45611449bd40b15f75cfa03dc0652f66d52894547'}
-  - {seq: 1, filename: KR6a0033_001.yaml, hash: 'sha256:41395555f1726c555acceb6c3e66010b737883010567852e522efc9ee9d481ba'}
+  - {seq: 1, filename: KR6a0033_001.yaml, hash: 'sha256:aa4cc773aa6322fabf418307d5f9f7ad12e9e4ccf35e52212cd33cf65ca15f7a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0033_000.markers.yaml, hash: 'sha256:3938a3f0d809bbc997607aeb1e2607a85addd744e1d0f4d0c78968c6d14ac712'}
-  - {seq: 1, role: markers, filename: assets/KR6a0033_001.markers.yaml, hash: 'sha256:1d2a8d9f6453d2c30b343f1cb1df82584b407b26eb06793764e204f25c4b0c51'}
+  - {seq: 1, role: markers, filename: assets/KR6a0033_001.markers.yaml, hash: 'sha256:985e25fc7de70dfaa2ec2961ce2c8e673112935c2994903754459dc9f03f591b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說恒水經
   type: juan
   level: 1
-hash: sha256:52bacc3698cd11300f41d223f45c8d021551b1b12b90aac332140f30c7a5a6ef
+hash: sha256:1bd41ead9a69845332e2f456e9705e8a630d1a8d6b73630c10727855b1e86d7a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
