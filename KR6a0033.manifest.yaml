@@ -30,7 +30,7 @@ assets:
   - {seq: 0, filename: KR6a0033_000.yaml, hash: 'sha256:0275d997aed86ded4d2b6ae45611449bd40b15f75cfa03dc0652f66d52894547'}
   - {seq: 1, filename: KR6a0033_001.yaml, hash: 'sha256:aa4cc773aa6322fabf418307d5f9f7ad12e9e4ccf35e52212cd33cf65ca15f7a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0033_000.markers.yaml, hash: 'sha256:3938a3f0d809bbc997607aeb1e2607a85addd744e1d0f4d0c78968c6d14ac712'}
+  - {seq: 0, role: markers, filename: assets/KR6a0033_000.markers.yaml, hash: 'sha256:8861e1bc63a92cc494712d564d9c1f7714d0e1a029229bfa58f0acf2bc9964e5'}
   - {seq: 1, role: markers, filename: assets/KR6a0033_001.markers.yaml, hash: 'sha256:985e25fc7de70dfaa2ec2961ce2c8e673112935c2994903754459dc9f03f591b'}
 table_of_contents:
 - ref:
@@ -43,7 +43,7 @@ table_of_contents:
   label: 佛說恒水經
   type: juan
   level: 1
-hash: sha256:1bd41ead9a69845332e2f456e9705e8a630d1a8d6b73630c10727855b1e86d7a
+hash: sha256:8e5e9047d803cb8e61e29b4e726147cfe806fd63711e09e5b5b20b8e89f9124d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

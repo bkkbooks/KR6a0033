@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0033_000-T.yaml, hash: 'sha256:0275d997aed86ded4d2b6ae45611449bd40b15f75cfa03dc0652f66d52894547'}
   - {seq: 1, filename: KR6a0033_001-T.yaml, hash: 'sha256:41395555f1726c555acceb6c3e66010b737883010567852e522efc9ee9d481ba'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0033_000-T.markers.yaml, hash: 'sha256:daecec47d51b2349df570e0be785f501ce59b1f37c1fef74ef38c0a76b03b36a'}
+  - {seq: 0, role: markers, filename: assets/KR6a0033_000-T.markers.yaml, hash: 'sha256:74e05439256c2a011b86fc863d9aaf98e6acf6d394be9e2faaedce465120529f'}
   - {seq: 1, role: markers, filename: assets/KR6a0033_001-T.markers.yaml, hash: 'sha256:a08a5f557174fd6d761886920d10e3740054826b9dda6bf1f9b628c2111d4785'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說恒水經
   type: juan
   level: 1
-hash: sha256:103d613095cd5265e2c7278373f70a97e020e34154c3e1ecd0f546ad7a12ed38
+hash: sha256:6e2a162568208fbac043aa9e9cf43f499b4e169f2890cd8eb44462abfd41b236
